@@ -1,2 +1,5 @@
 out/*
 pdf/*
+
+!out/.gitignore
+!pdf/.gitignore
