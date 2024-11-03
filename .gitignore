@@ -1,5 +1,6 @@
-out/*
-pdf/*
-
-!out/.gitignore
-!pdf/.gitignore
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
